@@ -5,6 +5,11 @@ lakeite - 2
 mireya_is_dead - 1
 owlpostbooks - 1
 juanframl97 - 1
+augustine0407 - 1
+CA_Karen_ - 1
+LxdiaMagoo - 1
+P_Cubb - 1
+Is_Fieza - 1
 
 Users who have tweeted the most for every hour.
 user - tweets in one hour
@@ -13,6 +18,11 @@ lakeite - 2
 mireya_is_dead - 1
 owlpostbooks - 1
 juanframl97 - 1
+augustine0407 - 1
+CA_Karen_ - 1
+LxdiaMagoo - 1
+P_Cubb - 1
+Is_Fieza - 1
 
 Top users who have the maximum followers.
 user - followers
@@ -21,6 +31,11 @@ MiamiHerald - 398173
 DispatchAlerts - 173095
 UFOParanormNews - 68396
 hotfunkytown - 37527
+jonathanjewel - 12682
+MousseauJim - 10762
+WendyMarcinkie1 - 8108
+Welly_World - 6978
+paolo_sf - 6396
 
 Top tweets with maximum retweet count.
 tweet - retweet count
@@ -29,3 +44,8 @@ RT @Christie_D22: After Sandy Hook, Obama privately met with the families of eac
 RT @Thomas1774Paine: DNC Fundraises Off Florida Shooting https://t.co/l1cheaz1Dt - 209702
 RT @_America_First: #TheStorm #DeepState, Mueller PANIC | INDICTS 13 RUSSIANS | coverup FBI in #Parkland shooting #QAnon #MAGA https://t.c… - 209702
 RT @thehill: GOP candidate refuses to cancel AR-15 giveaway after same gun was used in Florida shooting https://t.co/nnMkzhcBZb https://t.c… - 209702
+RT @chrislhayes: Watch Paul Ryan say almost the exact same thing after each successive mass shooting... https://t.co/YXMBVx5yOq - 209702
+This has been one of the hardest weeks for me to get through in a long time. The shooting stuff has really pushed m… https://t.co/du4UuP0MQu - 209701
+RT @CNN: Student David Hogg who survived the school shooting looks directly in the camera, and sends a message to President Trump and lawma… - 209701
+RT @GTPIfilm: Comfort dogs travel to Broward to help victims of Stoneman Douglas school shooting https://t.co/33gtiOXfw6 - 209701
+RT @igorvolsky: Parkland school shooting: AR-15Texas church shooting: AR-15Las Vegas shooting: AR-15Orlando nightclub shooting: AR-15Sa… - 192528
