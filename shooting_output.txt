@@ -1,0 +1,31 @@
+Top users who have tweeted the most for the entire timeline.
+user - tweet #
+jerksoffplant - 3
+lakeite - 2
+mireya_is_dead - 1
+owlpostbooks - 1
+juanframl97 - 1
+
+Users who have tweeted the most for every hour.
+user - tweets in one hour
+jerksoffplant - 3
+lakeite - 2
+mireya_is_dead - 1
+owlpostbooks - 1
+juanframl97 - 1
+
+Top users who have the maximum followers.
+user - followers
+wajih_sani - 456918
+MiamiHerald - 398173
+DispatchAlerts - 173095
+UFOParanormNews - 68396
+hotfunkytown - 37527
+
+Top tweets with maximum retweet count.
+tweet - retweet count
+RT @Titilayo__: Media after a mass shooting:Black: TerroristAsian:Terrorist Arab: TerroristWhite: sChiZoPhrEnIC dEprESSed lOveLy ChArmi… - 209703
+RT @Christie_D22: After Sandy Hook, Obama privately met with the families of each and every victim, hugged them, listened to them. He was t… - 209702
+RT @Thomas1774Paine: DNC Fundraises Off Florida Shooting https://t.co/l1cheaz1Dt - 209702
+RT @_America_First: #TheStorm #DeepState, Mueller PANIC | INDICTS 13 RUSSIANS | coverup FBI in #Parkland shooting #QAnon #MAGA https://t.c… - 209702
+RT @thehill: GOP candidate refuses to cancel AR-15 giveaway after same gun was used in Florida shooting https://t.co/nnMkzhcBZb https://t.c… - 209702

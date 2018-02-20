@@ -1,0 +1,30 @@
+Top users who have tweeted the most for the entire timeline.
+user - tweet #
+YourGirlLove_Me - 7
+GoFortyNiners49 - 2
+UNCCadmissions - 2
+GailDuncanLadd - 1
+el_supremacy - 1
+
+Users who have tweeted the most for every hour.
+user - tweets in one hour
+YourGirlLove_Me - 7
+GoFortyNiners49 - 2
+UNCCadmissions - 2
+GailDuncanLadd - 1
+el_supremacy - 1
+
+Top users who have the maximum followers.
+user - followers
+YourGirlLove_Me - 9753
+el_supremacy - 3974
+UNCCadmissions - 3737
+GoFortyNiners49 - 1024
+tonarivanei - 570
+
+Top tweets with maximum retweet count.
+tweet - retweet count
+RT @Notorious_Rozay: OFFICIAL 18+ #CIAA Moves    • 3.2 #HBCUGymJam     • 3.3 #HBCUPredawnBoth Events Will Have CLT on Smash For Anot… - 13
+RT @UNCCsustain: Recycling one ton of paper can save 17 trees, 7,000 gallons of water, 380 gallons of oil. So if you're not in that habit o… - 8
+RT @dedrickrussell: .@CMPD release this photo of possible suspect in a sexual assault case that happened near UNCC. Do you know who this is… - 5
+RT @gabrielllerife: hey, uncc!! @UNCCZTA will be tabling next week and debuting our brand new event- ZATER TOTS!! have tater tots delivered… - 4
